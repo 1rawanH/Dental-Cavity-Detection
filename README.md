@@ -2,5 +2,9 @@ This project aims to use the YOLOv8 and YOLOv11 models for teeth cavities detect
 Through this project, the YOLO models will be finetuned through experimentation to obtain optimal hyperparameters that achieve high performance. In addition, a comparison of the models’ results will reveal which version is more suitable for the cavity detection task.
 
 ### Project Demo
-https://github.com/user-attachments/assets/c4d6f447-14ea-4609-b999-c0b65ab87ebc
+
+
+https://github.com/user-attachments/assets/dc4ba198-cb21-46a1-98a0-e20c3e6c37bb
+
+
 
